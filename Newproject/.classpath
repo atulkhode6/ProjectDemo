@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ATUL/Desktop/java class recording/selenium setup/javabykiran-Selenium-Softwares/selenium-server-standalone-3.141.59.jar" sourcepath="C:/Users/ATUL/Desktop/java class recording/selenium setup/javabykiran-Selenium-Softwares/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ATUL/Desktop/java class recording/selenium setup/javabykiran-Selenium-Softwares/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
